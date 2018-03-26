@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/mohammedalam/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/Users/mohammedalam/Documents/CST_2301/Android_Projects/MortgageCalculateor/app/build/intermediates/pre-dexed/debug/support-annotations-26.0.0-alpha1_81347cfec22912129b0fda5df95ec70e35ed2245.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mohammedalam/Documents/CST_2301/Android_Projects/MortgageCalculateor/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fed7050899b77f64ea215df7919eee00f142053a">
+        <dex dex="/Users/mohammedalam/Documents/CST_2301/Android_Projects/MortgageCalculateor/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_bed6b88accdce9c5d302fb45aeff2e4aceb13d9b/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mohammedalam/.android/build-cache/ded7e5d64ff06b9273195bc86f46e515c07b5343/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/Users/mohammedalam/Documents/CST_2301/Android_Projects/MortgageCalculateor/app/build/intermediates/pre-dexed/debug/classes_8a589eeb05a040b48bc92fbb3a714690731311f2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mohammedalam/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/mohammedalam/Documents/CST_2301/Android_Projects/MortgageCalculateor/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_4e9163bc081cd2e75211ce610e4676665226f109.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mohammedalam/Documents/CST_2301/Android_Projects/MortgageCalculateor/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/mohammedalam/Documents/CST_2301/Android_Projects/MortgageCalculateor/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_33548e14cf9e7bb7b8ad9d7199273f5013987519/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mohammedalam/.android/build-cache/f93fe0ea6b03fe70b9d06f3f74f565fd8c86e722/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/Users/mohammedalam/Documents/CST_2301/Android_Projects/MortgageCalculateor/app/build/intermediates/pre-dexed/debug/classes_817c2da302ee29f05ca9008528446776d30b531a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mohammedalam/.android/build-cache/cd50a2011254bbb66d0fcc86cd416c8c3a099988/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/Users/mohammedalam/Documents/CST_2301/Android_Projects/MortgageCalculateor/app/build/intermediates/pre-dexed/debug/classes_b9b90f2604abdf0a7ed2378cbbd1bd77f46c94ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mohammedalam/.android/build-cache/5b732a5e0a66b0926a569bc3acdece8fc8abb4b2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/Users/mohammedalam/Documents/CST_2301/Android_Projects/MortgageCalculateor/app/build/intermediates/pre-dexed/debug/classes_01f4ef26238dc3e7076216a6622cf20d8af63791.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mohammedalam/.android/build-cache/d8d840794d1b1c273fa62da2080974e6ca4ee8bd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/mohammedalam/Documents/CST_2301/Android_Projects/MortgageCalculateor/app/build/intermediates/pre-dexed/debug/classes_86074fe717addb1f3fb1db4d94572630fbe9a166.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mohammedalam/.android/build-cache/cc46e0a91c5428cf811b809151c07139ac37bb04/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/Users/mohammedalam/Documents/CST_2301/Android_Projects/MortgageCalculateor/app/build/intermediates/pre-dexed/debug/classes_ffeef88b68ea39853154814aa9b418c07005a0c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mohammedalam/.android/build-cache/fdf43f2caea89dd64b9052d24721b396dbb477dd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/Users/mohammedalam/Documents/CST_2301/Android_Projects/MortgageCalculateor/app/build/intermediates/pre-dexed/debug/classes_16803d6c3a416e3597d48a9978b231af1b5e9569.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mohammedalam/.android/build-cache/22c299166ff1f9ebd4ea1b1bb9bcd90c2a770d29/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/mohammedalam/Documents/CST_2301/Android_Projects/MortgageCalculateor/app/build/intermediates/pre-dexed/debug/classes_9566e87729e99569a09bc56869f60f3c1e931e95.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mohammedalam/.android/build-cache/2cb7cfd77d2355d4501ec2731f22883590e1ebd3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/Users/mohammedalam/Documents/CST_2301/Android_Projects/MortgageCalculateor/app/build/intermediates/pre-dexed/debug/classes_2d3ae2e7a21ed7b19b3c4d2d7a1b5f379a3c2dfa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mohammedalam/.android/build-cache/77728e96776fa6b24b8884ae9f559c234929ac70/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/Users/mohammedalam/Documents/CST_2301/Android_Projects/MortgageCalculateor/app/build/intermediates/pre-dexed/debug/classes_9af36844970e46a2d3d4b0c8afbf48d89e91f500.jar" />
+    </item>
+
+</items>
